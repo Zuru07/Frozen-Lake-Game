@@ -96,9 +96,8 @@ Training completed!
 
 ### Notes and Future Improvements
 
-The SNN currently serves as a feature encoder; integration with Q-learning can be further enhanced.
-
-Future work:
+- The SNN currently serves as a feature encoder; integration with Q-learning can be further enhanced.
+- Future work:
 - Use spike-based policies instead of Q-tables.
 - Explore alternative STDP rules and larger hidden layers.
 - Try different environments (e.g., CartPole, MountainCar).
